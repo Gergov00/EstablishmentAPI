@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstablishmentAPI", "EstablishmentAPI\EstablishmentAPI.csproj", "{3068ED85-B252-4370-AC16-FA46872D7E3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataSeeder", "DataSeeder\DataSeeder.csproj", "{21F3E890-9C4B-41FB-A053-459524169003}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3068ED85-B252-4370-AC16-FA46872D7E3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3068ED85-B252-4370-AC16-FA46872D7E3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3068ED85-B252-4370-AC16-FA46872D7E3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3068ED85-B252-4370-AC16-FA46872D7E3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21F3E890-9C4B-41FB-A053-459524169003}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21F3E890-9C4B-41FB-A053-459524169003}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21F3E890-9C4B-41FB-A053-459524169003}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21F3E890-9C4B-41FB-A053-459524169003}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E75728C-9118-470D-B3BB-7097E9603A33}
+	EndGlobalSection
+EndGlobal
